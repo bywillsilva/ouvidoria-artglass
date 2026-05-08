@@ -1,0 +1,14 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g opacity="0.55">
+    <path d="M0 0H160" stroke="white" stroke-opacity="0.16"/>
+    <path d="M0 40H160" stroke="white" stroke-opacity="0.16"/>
+    <path d="M0 80H160" stroke="white" stroke-opacity="0.16"/>
+    <path d="M0 120H160" stroke="white" stroke-opacity="0.16"/>
+    <path d="M0 160H160" stroke="white" stroke-opacity="0.16"/>
+    <path d="M0 0V160" stroke="white" stroke-opacity="0.16"/>
+    <path d="M40 0V160" stroke="white" stroke-opacity="0.16"/>
+    <path d="M80 0V160" stroke="white" stroke-opacity="0.16"/>
+    <path d="M120 0V160" stroke="white" stroke-opacity="0.16"/>
+    <path d="M160 0V160" stroke="white" stroke-opacity="0.16"/>
+  </g>
+</svg>
